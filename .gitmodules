@@ -1,0 +1,6 @@
+[submodule "sub-module-child-one"]
+	path = sub-module-child-one
+	url = ../sub-module-child-one.git
+[submodule "sub-module-child-two"]
+	path = sub-module-child-two
+	url = ../sub-module-child-two.git
